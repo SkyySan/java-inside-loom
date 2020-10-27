@@ -21,7 +21,7 @@ public class AlternateContinuations {
         var list = List.of(continuation1, continuation2);
         boolean stop = false;
         while(!stop)
-            for (Continuation continuation : list)
+            for (var continuation : list)
                 if (!continuation.isDone()) {
                     continuation.run();
                     stop = false;
