@@ -23,6 +23,7 @@ public class Scheduler {
         else
             throw new IllegalStateException("No current continuation");
     }
+
     public void runLoop() {
         while (!this.continuations.isEmpty()){
             int index = switch (this.executionPolicy) {
