@@ -1,3 +1,5 @@
+package fr.umlv.javainsideloom;
+
 import java.util.List;
 
 public class AlternateContinuations {
