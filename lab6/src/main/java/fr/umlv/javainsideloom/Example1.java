@@ -1,3 +1,5 @@
+package fr.umlv.javainsideloom;
+
 import java.util.concurrent.locks.ReentrantLock;
 
 public class Example1 {

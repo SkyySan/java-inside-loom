@@ -1,3 +1,5 @@
+package fr.umlv.javainsideloom;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
