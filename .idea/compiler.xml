@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="java-inside-loom" target="14" />
-      <module name="lab6" target="14" />
+      <module name="java-inside-loom" target="16" />
+      <module name="lab6" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
